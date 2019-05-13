@@ -12071,23 +12071,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\all\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\TonyMack\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\all\\Downloads\\code\\clicknifeBackend\\clicknifeBackend.csproj",
+      "projectUniqueName": "C:\\clicknife\\code\\clicknifeBackend\\clicknifeBackend.csproj",
       "projectName": "clicknifeBackend",
-      "projectPath": "C:\\Users\\all\\Downloads\\code\\clicknifeBackend\\clicknifeBackend.csproj",
-      "packagesPath": "C:\\Users\\all\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\all\\Downloads\\code\\clicknifeBackend\\obj\\",
+      "projectPath": "C:\\clicknife\\code\\clicknifeBackend\\clicknifeBackend.csproj",
+      "packagesPath": "C:\\Users\\TonyMack\\.nuget\\packages\\",
+      "outputPath": "C:\\clicknife\\code\\clicknifeBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\all\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\TonyMack\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
