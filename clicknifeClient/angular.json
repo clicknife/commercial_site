@@ -132,5 +132,10 @@
       }
     }
   },
-  "defaultProject": "clicknifeClient"
+  "defaultProject": "clicknifeClient",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
