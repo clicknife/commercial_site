@@ -13,6 +13,7 @@ import { CompanyComponent } from './modules/home/pages/company/company.component
 import { HeaderComponent } from './core/header/header.component';
 import { FooterComponent } from './core/footer/footer.component';
 import { MainHeaderComponent } from './core/main-header/main-header.component';
+import { AlertModule } from 'ngx-bootstrap';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { MainHeaderComponent } from './core/main-header/main-header.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    AlertModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
