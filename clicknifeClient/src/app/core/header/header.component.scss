@@ -1,3 +1,18 @@
-.red-text {
-    color: #DC254E;
+.dark-text, a, a:link {
+    color: #331a31 !important;
+    font-family: 'Mitr';
+    font-size: 12px;
+    letter-spacing: 1.8pt;
+}
+
+.red-text, a:hover {
+    color: #DC254E !important;
+}
+
+.red-text:hover {
+    color: #331a31 !important;
+}
+
+.navbar-nav > li {
+    padding-right: 28px;
 }

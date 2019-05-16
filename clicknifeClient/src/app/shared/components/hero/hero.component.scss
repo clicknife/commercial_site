@@ -1,4 +1,16 @@
 .hero {
     height: 575px;
+    text-align: center;
     background-color: #DC254E;
+    z-index: 10;
+}
+
+.mascot-panel {
+    background: url('../../../../assets/img/knife_panel_bg.png') no-repeat;
+    width: 216px;
+    height: 271px;
+    padding-top: 53px;
+    z-index: 20;
+    text-align: center;
+    margin: -670px auto 0 auto;
 }
